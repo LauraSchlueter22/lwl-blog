@@ -11,6 +11,7 @@ export default function Home() {
             Welcome to Life w| Laura
           </li>
           <li>sit back | relax | scroll</li>
+          <li> Right here is a placehold for a picture</li>
         </ul>
 
         <div className={styles.ctas}>
